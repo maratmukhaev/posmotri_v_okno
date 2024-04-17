@@ -206,7 +206,7 @@ input[type="checkbox"]:checked + span::after {
 }
 
 .title {
-  font-family: Oswald;
+  font-family: Oswald, sans-serif;
   font-weight: 700;
   font-size: 75px;
   line-height: 0.94;
@@ -236,7 +236,7 @@ input[type="checkbox"]:checked + span::after {
 }
 
 .content__video-card-title {
-  font-family: Oswald;
+  font-family: Oswald, sans-serif;
   font-weight: 700;
   font-size: 30px;
   line-height: 1;
